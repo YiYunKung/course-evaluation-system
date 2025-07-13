@@ -1,6 +1,7 @@
 # 📝課程評價系統 Course Evaluation System
 * 詳細介紹可前往下載 [課程評價系統報告簡報](https://github.com/YiYunKung/courseEvaluationSystem/blob/main/%E8%A9%95%E5%83%B9%E7%B3%BB%E7%B5%B1%E4%BB%8B%E7%B4%B9.pptx)
 * 由一群學生發想出 **更貼近學生的設計**，我們懂使用者想看到的！
+<br>
 
 ## 功能及特點介紹
 該系統最大的特色在於**評價內容的設計** ，除了評分、考試、作業、心得這些較常見的問題外，還包含：
